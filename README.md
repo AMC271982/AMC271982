@@ -1,4 +1,4 @@
-![](./img/banner2.png)
+![](banner_1400x290.png)
 
 ## 👋 Hey! I'm Albert Monsalve.
 
